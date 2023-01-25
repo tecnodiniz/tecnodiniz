@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @EduardoDiniz
-- 👀 I’m interested in Developing stuffs
-- 🌱 I’m currently learning ... C# ASP.NET MVC 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 Hi! My name is Eduardo Diniz and i am 27.
+- 💾 I'm very very interested in IT Stuffs like developing, infrastructure, cybersecurity and Ethical hacking.
+- 📁 On my Github you can find some of my codes and scripts. 
+- 📫 How to reach me: *[My Linkedin](https://www.linkedin.com/in/eduardo-diniz-0b0309193)*
+
+
 
 <!---
 tecnodiniz/tecnodiniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
