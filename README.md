@@ -1,4 +1,4 @@
-- 💻 Hi! My name is Eduardo Diniz and i am 27.
+- 💻 Hi! My name is Eduardo Diniz and i am 28.
 - 💾 I'm very very interested in IT Stuffs like developing, infrastructure, cybersecurity and Ethical hacking.
 - 📁 On my Github you can find some of my codes and scripts. 
 - 📫 How to reach me: *[My Linkedin](https://www.linkedin.com/in/eduardo-diniz-0b0309193)*
