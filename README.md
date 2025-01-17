@@ -22,7 +22,6 @@ Graduated in Systems Analysis and Development, passionate about programming. My 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnodiniz&langs_count=10)
 
 
 
