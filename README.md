@@ -8,7 +8,7 @@ Graduated in Systems Analysis and Development, passionate about programming. My 
 
 # Skills
 
-* Full Stack Developer
+* Web Developer
 * Version Control with Git
 * Relational and NoSQL Databases
 * Self-taught
