@@ -3,15 +3,14 @@
 
 # Hi!, I'am Eduardo Diniz
 
-Graduated in Systems Analysis and Development, passionate about programming. My hobby is studying new languages and tools. I love developing applications.
-
+I hold a degree in Systems Analysis and Development and have a deep passion for programming. Continuously exploring new languages and technologies is both my profession and my hobby. I thrive on developing applications and solving complex challenges through code.
 
 # Skills
 
 * Web Developer
-* Version Control with Git
-* Relational and NoSQL Databases
-* Self-taught
+* Version Control (Git)
+* Relational & NoSQL Databases
+* Self-Taught & Adaptable
 
 # Stacks
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -23,8 +22,6 @@ Graduated in Systems Analysis and Development, passionate about programming. My 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   
-
-
 
 
 
