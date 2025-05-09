@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFHbP35qL9YtA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676640561362?e=1746662400&v=beta&t=iCcJeFicOAuZ6sgeYpUKfaDBV80WFJxC6tivR74WM00" width="100%"/>
+<img src="[https://media.licdn.com/dms/image/v2/D4D16AQFHbP35qL9YtA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676640561362?e=1746662400&v=beta&t=iCcJeFicOAuZ6sgeYpUKfaDBV80WFJxC6tivR74WM00](https://i.pinimg.com/736x/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.jpg)" width="100%"/>
 
 
 # Hi!, I'am Eduardo Diniz
