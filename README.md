@@ -12,6 +12,8 @@ I hold a degree in Systems Analysis and Development and have a deep passion for 
 * Relational & NoSQL Databases
 * Self-Taught & Adaptable
 
+## Professional Accounts
+[Economatica](https://github.com/duhdiniz)
 # Stacks
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
